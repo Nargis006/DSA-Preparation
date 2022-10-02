@@ -1,0 +1,15 @@
+C:\Users\Nargis\source\repos\Max_Min_In_Array\Max_Min_In_Array\bin\Debug\net6.0\DSA_Prep.exe
+C:\Users\Nargis\source\repos\Max_Min_In_Array\Max_Min_In_Array\bin\Debug\net6.0\DSA_Prep.deps.json
+C:\Users\Nargis\source\repos\Max_Min_In_Array\Max_Min_In_Array\bin\Debug\net6.0\DSA_Prep.runtimeconfig.json
+C:\Users\Nargis\source\repos\Max_Min_In_Array\Max_Min_In_Array\bin\Debug\net6.0\DSA_Prep.dll
+C:\Users\Nargis\source\repos\Max_Min_In_Array\Max_Min_In_Array\bin\Debug\net6.0\DSA_Prep.pdb
+C:\Users\Nargis\source\repos\Max_Min_In_Array\Max_Min_In_Array\obj\Debug\net6.0\DSA_Prep.csproj.AssemblyReference.cache
+C:\Users\Nargis\source\repos\Max_Min_In_Array\Max_Min_In_Array\obj\Debug\net6.0\DSA_Prep.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nargis\source\repos\Max_Min_In_Array\Max_Min_In_Array\obj\Debug\net6.0\DSA_Prep.AssemblyInfoInputs.cache
+C:\Users\Nargis\source\repos\Max_Min_In_Array\Max_Min_In_Array\obj\Debug\net6.0\DSA_Prep.AssemblyInfo.cs
+C:\Users\Nargis\source\repos\Max_Min_In_Array\Max_Min_In_Array\obj\Debug\net6.0\DSA_Prep.csproj.CoreCompileInputs.cache
+C:\Users\Nargis\source\repos\Max_Min_In_Array\Max_Min_In_Array\obj\Debug\net6.0\DSA_Prep.dll
+C:\Users\Nargis\source\repos\Max_Min_In_Array\Max_Min_In_Array\obj\Debug\net6.0\refint\DSA_Prep.dll
+C:\Users\Nargis\source\repos\Max_Min_In_Array\Max_Min_In_Array\obj\Debug\net6.0\DSA_Prep.pdb
+C:\Users\Nargis\source\repos\Max_Min_In_Array\Max_Min_In_Array\obj\Debug\net6.0\DSA_Prep.genruntimeconfig.cache
+C:\Users\Nargis\source\repos\Max_Min_In_Array\Max_Min_In_Array\obj\Debug\net6.0\ref\DSA_Prep.dll

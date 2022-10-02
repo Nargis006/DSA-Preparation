@@ -1,0 +1,15 @@
+C:\Users\Nargis\source\repos\Max_Min_In_Array\Max_Min_In_Array\bin\Debug\net6.0\Max_Min_In_Array.exe
+C:\Users\Nargis\source\repos\Max_Min_In_Array\Max_Min_In_Array\bin\Debug\net6.0\Max_Min_In_Array.deps.json
+C:\Users\Nargis\source\repos\Max_Min_In_Array\Max_Min_In_Array\bin\Debug\net6.0\Max_Min_In_Array.runtimeconfig.json
+C:\Users\Nargis\source\repos\Max_Min_In_Array\Max_Min_In_Array\bin\Debug\net6.0\Max_Min_In_Array.dll
+C:\Users\Nargis\source\repos\Max_Min_In_Array\Max_Min_In_Array\bin\Debug\net6.0\Max_Min_In_Array.pdb
+C:\Users\Nargis\source\repos\Max_Min_In_Array\Max_Min_In_Array\obj\Debug\net6.0\Max_Min_In_Array.csproj.AssemblyReference.cache
+C:\Users\Nargis\source\repos\Max_Min_In_Array\Max_Min_In_Array\obj\Debug\net6.0\Max_Min_In_Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nargis\source\repos\Max_Min_In_Array\Max_Min_In_Array\obj\Debug\net6.0\Max_Min_In_Array.AssemblyInfoInputs.cache
+C:\Users\Nargis\source\repos\Max_Min_In_Array\Max_Min_In_Array\obj\Debug\net6.0\Max_Min_In_Array.AssemblyInfo.cs
+C:\Users\Nargis\source\repos\Max_Min_In_Array\Max_Min_In_Array\obj\Debug\net6.0\Max_Min_In_Array.csproj.CoreCompileInputs.cache
+C:\Users\Nargis\source\repos\Max_Min_In_Array\Max_Min_In_Array\obj\Debug\net6.0\Max_Min_In_Array.dll
+C:\Users\Nargis\source\repos\Max_Min_In_Array\Max_Min_In_Array\obj\Debug\net6.0\refint\Max_Min_In_Array.dll
+C:\Users\Nargis\source\repos\Max_Min_In_Array\Max_Min_In_Array\obj\Debug\net6.0\Max_Min_In_Array.pdb
+C:\Users\Nargis\source\repos\Max_Min_In_Array\Max_Min_In_Array\obj\Debug\net6.0\Max_Min_In_Array.genruntimeconfig.cache
+C:\Users\Nargis\source\repos\Max_Min_In_Array\Max_Min_In_Array\obj\Debug\net6.0\ref\Max_Min_In_Array.dll
